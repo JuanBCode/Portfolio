@@ -1,6 +1,6 @@
 # Juan Benazar's Portfolio
 
-[Portfolio Screenshot](images/screenshot1.png)
+[Portfolio Screenshot](images/Screenshot1.png)
 
 ## Description
 
